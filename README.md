@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Adel
 
-<!--
-**M-Mousa366/M-Mousa366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Engineer | SOC Analyst in Progress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+I am focused on Blue Team operations, Threat Detection, and Zero Trust Architecture.  
+Passionate about building practical security solutions and mapping threats using MITRE ATT&CK.
+
+---
+
+## 🛠 Core Skills
+
+- SIEM & Log Analysis
+- Threat Hunting
+- MITRE ATT&CK Mapping
+- Zero Trust Architecture
+- Python Automation
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Zero Trust Network Simulator
+A practical implementation of Zero Trust principles with autonomous monitoring and MITRE mapping.
+
+### 🔹 SOC Log Analyzer
+Python-based log parsing and anomaly detection engine for SOC L1 operations.
+
+### 🔹 Autonomous Honeypot System
+Collects attack traffic, extracts IOCs, and maps techniques to MITRE ATT&CK.
+
+---
+
+## 📊 Security Focus
+
+- Detection Engineering
+- Lateral Movement Analysis
+- Incident Response Simulation
+- Business Risk Analysis
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (https://www.linkedin.com/in/mohamed-mousa-bb903126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: (mohamed.adel.mousa.2004@gmail.com)
