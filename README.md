@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Adel
 
-### Cybersecurity Engineer | SOC Analyst in Progress
+### Cybersecurity Engineer | SOC Analyst
 
 ---
 
