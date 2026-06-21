@@ -1,134 +1,123 @@
-# 🛡️ Mohamed Mousa | Cybersecurity Engineer
+# MOHAMED ADEL MOUSA
+
+### Cybersecurity Engineer | SOC Analyst | Blue Team Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;SOC+Analyst+%7C+Blue+Team+Specialist;Threat+Detection+%7C+MITRE+ATT%26CK+Mapping;Building+Secure+and+Resilient+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=SOC+Analyst+Focused+on+Real-World+Threat+Detection;Building+Security+Monitoring+Systems+and+Incident+Workflows;Blue+Team+Engineer+%7C+Log+Analysis+%7C+MITRE+ATT%26CK+Mapping" />
 </p>
 
 ---
 
-## 🧠 Cybersecurity Profile
+## PROFILE
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-0A66C2?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Role-SOC%20Analyst-FF0000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-MITRE%20ATT%26CK-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Defense-Zero%20Trust-008080?style=for-the-badge"/>
-</p>
+Cybersecurity Engineer focused on **Security Operations, Threat Detection, and Incident Response engineering**.
+
+I work on building and analyzing **SOC-style systems**, translating raw security signals into actionable detection and response workflows using structured investigation logic and MITRE ATT&CK mapping.
 
 ---
 
-## 👨‍💻 About Me
+## SECURITY FOCUS
 
-* 🔐 Cybersecurity Engineer focused on **Blue Team & Defensive Security**
-* 🧩 Building real-world **SOC simulations & detection systems**
-* 📡 Passionate about **Threat Intelligence & Incident Response**
-* 🧠 Working with **MITRE ATT&CK mapping & behavioral detection**
-* ⚙️ Automating security workflows using Python & SIEM tools
-
----
-
-## 🛠️ Core Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,vscode" />
-</p>
-
-* 🔍 Threat Hunting & Log Analysis
-* 📊 SIEM (Splunk / ELK Concepts)
-* 🧬 MITRE ATT&CK Mapping
-* 🚨 Incident Response
-* 🛡️ Detection Engineering
-* ⚙️ Security Automation (Python)
-* 🌐 Network Security & Traffic Analysis
-* 🔐 Zero Trust Architecture
+* SOC Operations & Security Monitoring
+* Incident Detection, Investigation & Response
+* Threat Intelligence & Behavioral Analysis
+* MITRE ATT&CK Mapping & Attack Simulation
+* Log Analysis & Security Event Correlation
+* Secure System Design (RBAC, Audit Logging, Zero Trust Concepts)
 
 ---
 
-## 🚀 Featured Projects
+## CORE TECHNICAL FOUNDATION
 
-### 🛡️ Security Layer Platform
+**Networking & Systems**
+TCP/IP • DNS • DHCP • VLANs • Routing & Switching (CCNA Level)
 
-> SOC-style monitoring & detection system
+**Security Operations**
+SIEM Concepts • Splunk • Wireshark • Nmap • Microsoft Defender
 
-* Real-time threat detection
-* MITRE ATT&CK mapping engine
-* Security analytics dashboard
-* Behavioral anomaly detection
+**Engineering Stack**
+Python • SQL • Linux (Kali / Ubuntu) • Windows Administration • Git/GitHub
 
 ---
 
-### 🕵️ Autonomous Honeypot System
+## SELECTED SECURITY WORK
 
-* Captures malicious traffic in real-time
+### SOC / RAGMind Security Layer (Graduation Project)
+
+A full-stack SOC-style security system integrated into an AI platform.
+
+Focus Areas:
+
+* Real-time attack detection (brute force, abnormal API behavior, suspicious uploads)
+* Incident lifecycle workflow (detect → investigate → respond → resolve)
+* Automated mitigation (blocking, suspension, containment)
+* Attack simulation environment for validation & testing
+* Centralized audit logging + RBAC-based access control
+
+Outcome:
+A functional **SOC simulation environment** designed to replicate real-world security operations.
+
+---
+
+### Autonomous Honeypot & Threat Collection System
+
+* Captures malicious traffic behavior in controlled environment
 * Extracts Indicators of Compromise (IOCs)
-* Maps attacker behavior to MITRE framework
-* Generates threat intelligence reports
+* Maps attacker behavior to MITRE ATT&CK techniques
+* Supports threat intelligence analysis workflows
 
 ---
 
-### 📊 SOC Log Analyzer
+### SOC Log Analysis Engine
 
-* Advanced log parsing engine
-* Detects anomalies in system logs
-* SOC L1 investigation support
-* Automated alert classification
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+* Structured log parsing and normalization
+* Detection of anomalies and suspicious patterns
+* Supports SOC L1 investigation workflows
+* Generates security alerts based on behavior patterns
 
 ---
 
-## 🧩 Security Focus Areas
+## EXPERIENCE
 
-```text
-Threat Detection        ██████████░░
-Incident Response       █████████░░░
-MITRE ATT&CK Mapping    ██████████░░
-Log Analysis            ███████████░
-SOC Operations          ██████████░░
-Automation (Python)     █████████░░░
-```
+**Programming Mentor – Tasabuq**
+Jun 2024 – Nov 2024
+
+Worked on simplifying technical concepts, improving problem-solving skills, and mentoring learners through structured programming exercises and guided technical support.
 
 ---
 
-## 🌐 Connect With Me
+## EDUCATION
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+Bachelor of Computer Science & Information Technology (IT Track)
+EELU – Ain Shams University | Expected 2026
+Grade: Very Good
 
 ---
 
-## ⚡ Cybersecurity Mindset
+## CERTIFICATIONS
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
+* CCNA: Introduction to Networks
+* CCNA: Switching, Routing & Wireless Essentials
+* Information Security Analyst – DEPI
+* IT Specialist: Device Configuration & Management
+* MCSA – Microsoft Certified Solutions Associate
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat-square"/>
-</p>
+---
+
+## PORTFOLIO
+
+https://mohamedmousa-portfolio.vercel.app/
+
+---
+
+## CONTACT
+
+Email: [mohamed.adel.mousa.2004@gmail.com](mailto:mohamed.adel.mousa.2004@gmail.com)
+LinkedIn: [www.linkedin.com/in/mohamed-mousa-bb903126a](http://www.linkedin.com/in/mohamed-mousa-bb903126a)
+GitHub: https://github.com/M-Mousa366
 
 ---
 
 <p align="center">
-<b>“Security is not a product — it’s a process.”</b>
+<b>“Security engineering is about turning uncertainty into observable behavior.”</b>
 </p>
