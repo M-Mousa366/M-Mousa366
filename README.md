@@ -1,18 +1,19 @@
+
 # MOHAMED ADEL MOUSA
 
 ### Cybersecurity Engineer | SOC Analyst | Blue Team Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=SOC+Analyst+Focused+on+Real-World+Threat+Detection;Building+Security+Monitoring+Systems+and+Incident+Workflows;Blue+Team+Engineer+%7C+Log+Analysis+%7C+MITRE+ATT%26CK+Mapping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=SOC+Analyst+Focused+on+Real-World+Threat+Detection;Building+Security+Monitoring+Systems+and+Incident+Response+Workflows;Blue+Team+Engineer+%7C+Log+Analysis+%7C+MITRE+ATT%26CK+Mapping" />
 </p>
 
 ---
 
 ## PROFILE
 
-Cybersecurity Engineer focused on **Security Operations, Threat Detection, and Incident Response engineering**.
+Cybersecurity Engineer specializing in **Security Operations (SOC), Threat Detection, and Incident Response engineering**.
 
-I work on building and analyzing **SOC-style systems**, translating raw security signals into actionable detection and response workflows using structured investigation logic and MITRE ATT&CK mapping.
+I design and analyze **SOC-style security systems**, translating raw security telemetry into structured detection logic and actionable incident response workflows using investigative methodologies and MITRE ATT&CK mapping.
 
 ---
 
@@ -21,22 +22,22 @@ I work on building and analyzing **SOC-style systems**, translating raw security
 * SOC Operations & Security Monitoring
 * Incident Detection, Investigation & Response
 * Threat Intelligence & Behavioral Analysis
-* MITRE ATT&CK Mapping & Attack Simulation
+* MITRE ATT&CK Mapping & Adversary Simulation
 * Log Analysis & Security Event Correlation
-* Secure System Design (RBAC, Audit Logging, Zero Trust Concepts)
+* Secure System Design (RBAC, Audit Logging, Zero Trust Principles)
 
 ---
 
 ## CORE TECHNICAL FOUNDATION
 
 **Networking & Systems**
-TCP/IP • DNS • DHCP • VLANs • Routing & Switching (CCNA Level)
+TCP/IP • DNS • DHCP • VLANs • Routing & Switching (CCNA-Level Proficiency)
 
 **Security Operations**
 SIEM Concepts • Splunk • Wireshark • Nmap • Microsoft Defender
 
 **Engineering Stack**
-Python • SQL • Linux (Kali / Ubuntu) • Windows Administration • Git/GitHub
+Python • SQL • Linux (Kali / Ubuntu) • Windows Administration • Git & GitHub
 
 ---
 
@@ -44,36 +45,36 @@ Python • SQL • Linux (Kali / Ubuntu) • Windows Administration • Git/GitH
 
 ### SOC / RAGMind Security Layer (Graduation Project)
 
-A full-stack SOC-style security system integrated into an AI platform.
+A full-stack SOC-inspired security platform integrated within an AI-driven system.
 
 Focus Areas:
 
-* Real-time attack detection (brute force, abnormal API behavior, suspicious uploads)
-* Incident lifecycle workflow (detect → investigate → respond → resolve)
-* Automated mitigation (blocking, suspension, containment)
-* Attack simulation environment for validation & testing
-* Centralized audit logging + RBAC-based access control
+* Real-time threat detection (brute force, abnormal API behavior, suspicious uploads)
+* End-to-end incident lifecycle (detect → investigate → respond → remediate)
+* Automated mitigation workflows (blocking, suspension, containment)
+* Attack simulation environment for validation and testing
+* Centralized security logging + RBAC-based access control
 
 Outcome:
-A functional **SOC simulation environment** designed to replicate real-world security operations.
+A functional **SOC simulation environment replicating real-world security operations and workflows**.
 
 ---
 
-### Autonomous Honeypot & Threat Collection System
+### Autonomous Honeypot & Threat Intelligence Collection System
 
-* Captures malicious traffic behavior in controlled environment
+* Captures malicious traffic behavior in a controlled environment
 * Extracts Indicators of Compromise (IOCs)
 * Maps attacker behavior to MITRE ATT&CK techniques
-* Supports threat intelligence analysis workflows
+* Supports threat intelligence and analysis workflows
 
 ---
 
 ### SOC Log Analysis Engine
 
-* Structured log parsing and normalization
-* Detection of anomalies and suspicious patterns
+* Structured parsing and normalization of security logs
+* Detection of anomalous patterns and suspicious behavior
 * Supports SOC L1 investigation workflows
-* Generates security alerts based on behavior patterns
+* Rule-based security alert generation and correlation
 
 ---
 
@@ -82,7 +83,7 @@ A functional **SOC simulation environment** designed to replicate real-world sec
 **Programming Mentor – Tasabuq**
 Jun 2024 – Nov 2024
 
-Worked on simplifying technical concepts, improving problem-solving skills, and mentoring learners through structured programming exercises and guided technical support.
+Delivered structured technical mentoring sessions focused on programming fundamentals, debugging methodologies, and analytical problem-solving under guided technical instruction.
 
 ---
 
@@ -119,5 +120,5 @@ GitHub: https://github.com/M-Mousa366
 ---
 
 <p align="center">
-<b>“Security engineering is about turning uncertainty into observable behavior.”</b>
+<b>“Security engineering is about transforming uncertainty into measurable and actionable security intelligence.”</b>
 </p>
