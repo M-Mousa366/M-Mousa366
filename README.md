@@ -83,7 +83,7 @@ A functional **SOC simulation environment replicating real-world security operat
 **Programming Mentor – Tasabuq**
 Jun 2024 – Nov 2024
 
-Delivered structured technical mentoring sessions focused on programming fundamentals, debugging methodologies, and analytical problem-solving under guided technical instruction.
+Worked on simplifying technical concepts, improving problem-solving skills, and mentoring learners through structured programming exercises and guided technical support.
 
 ---
 
