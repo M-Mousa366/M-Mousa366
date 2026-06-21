@@ -1,4 +1,4 @@
-# 🛡️ Mohamed Adel | Cybersecurity Engineer
+# 🛡️ Mohamed Mousa | Cybersecurity Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;SOC+Analyst+%7C+Blue+Team+Specialist;Threat+Detection+%7C+MITRE+ATT%26CK+Mapping;Building+Secure+and+Resilient+Systems" />
